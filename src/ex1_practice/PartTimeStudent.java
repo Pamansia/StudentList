@@ -9,7 +9,7 @@ import ex1_practice.java.Student;
 
 /**
  *
- * @author mansi
+ * @author mansi May 2025
  */
 public class PartTimeStudent extends Student  {
 
