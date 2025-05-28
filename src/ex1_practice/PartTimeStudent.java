@@ -11,6 +11,7 @@ import ex1_practice.java.Student;
  *
  * @author mansi May 2025
  */
+//This is done
 public class PartTimeStudent extends Student  {
 
     private int numCourses;
