@@ -21,9 +21,5 @@ public class Student {
     public void setName(String name){
         this.name =name;
     }
-
-    boolean getStudentNumber() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
     
 }

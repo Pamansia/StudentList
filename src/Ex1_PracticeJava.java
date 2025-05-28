@@ -20,7 +20,7 @@ public class Ex1_PracticeJava {
         
         // TODO code application logic here
          
-        Student [] students = new Student[5];
+        Student [] students = new Student[2];
         Scanner input = new Scanner(System.in);
         for(int i=0;i<students. length; i++) {
           System.out.println("enter student name");
