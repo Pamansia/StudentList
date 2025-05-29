@@ -6,7 +6,7 @@ package ex1_practice.java;
 
 /**
  *
- * @author mansi May2025
+ * @author mansi 29 May2025
  */
 public class Student {
     
